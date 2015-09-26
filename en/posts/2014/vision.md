@@ -26,8 +26,8 @@ My son purchased a large collection of SAT practice tests from Barron's, College
 but any of these books would be far to bulky to carry in order to practise during transportation or lunch time.
 
 Being a mobile device enthusiast, I have naturally turned to iTunes to find education material to assist them in their revisions.
-Still today, theory tests for car drivers, brain games and learning foreign languages make the top grossing apps on iTunes and
-the **school toolkit** recommended by Apple is essentially made of productivity apps.
+
+Still today, driving theory tests, brain games and foreign language learning make the top grossing education apps on iTunes and the **school toolkit** recommended by Apple is essentially made of productivity apps:
 
 ![iTunes school toolkit](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/posts/2014/vision.png)
 
@@ -35,12 +35,11 @@ In fact, there are very few if no decent apps to comprehensively support our chi
 
 ### The Market
 
-The software education market is actually divided into three main categories:
+The education software market is actually divided into three main categories:
 
 - [Learning Management Systems (LMS)](https://en.wikipedia.org/wiki/Learning_management_system) help schools and universities manage students, teachers and classes;
 - [Massive Open Online Courses (MOOC)](https://en.wikipedia.org/wiki/Massive_open_online_course) expand access to education by providing online video courses; 
-- A very wide and atomized range of highly specialized applications, each target a specific topic (writing, comprehension, maths, physics, foreign language, history, geography, ...)
-  for a specific age group or test.
+- A very wide and atomized range of highly specialized applications, each targeting a specific topic (writing, comprehension, maths, physics, foreign language, history, geography, ...) for a specific age group or test.
 
 ### The Vision
 
