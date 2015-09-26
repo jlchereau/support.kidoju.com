@@ -29,7 +29,7 @@ Being a mobile device enthusiast, I have naturally turned to iTunes to find educ
 Still today, theory tests for car drivers, brain games and learning foreign languages make the top grossing apps on iTunes and
 the **school toolkit** recommended by Apple is essentially made of productivity apps.
 
-![iTunes school toolkit](vision.png)
+![iTunes school toolkit](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/posts/2014/vision.png)
 
 In fact, there are very few if no decent apps to comprehensively support our children's education through their curriculum. 
 
