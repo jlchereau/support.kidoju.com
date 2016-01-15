@@ -45,6 +45,8 @@ The client prototypes also used HTML control libraries including [jQuery UI](htt
 
 ## Weighing our options
 
+// --------------------------------------------------------------------------------> TODO: Add MEAN Logo Here
+
 Although we enjoyed C# compilation and the ability of [ASP.NET Web API](http://www.asp.net/web-api) and [Entity Framework](http://www.asp.net/entity-framework)
 to automatically present a uniform interface for [content negotiation](https://msdn.microsoft.com/en-gb/magazine/dn574797.aspx),
 the MEAN stack proved much more scalable, versatile and easily debuggable (end-to-end JavaScript).
