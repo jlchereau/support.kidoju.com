@@ -5,7 +5,13 @@ icon: dictionary
 keywords: Kidoju, quiz, mind game, interactive, community, vision, student, teacher, answer, solution, score
 language: en
 title: Why call them Kidojus?
-creation_date: 2014-09-16T11:27:33Z
+creation_date: 2016-01-15T07:21:00Z
+uuid: 2779f560-faef-11e5-af20-a53f004f8aa7
+author: jlchereau
+author_url: https://github.com/jlchereau
+avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
+edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/posts/2014/name.md
+site_url: https://www.kidoju.com/support/en/posts/2016/01/name
 ---
 With a [vision](vision) for a new quiz system, we needed a name.
 
