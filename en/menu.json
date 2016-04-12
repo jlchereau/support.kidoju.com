@@ -1,11 +1,24 @@
 [
   { "text": "Support", "href": "/support/en/" },
+  { "text": "Explore", "href": "/en/" },
   { "text": "Blog", "href": "/support/en/posts" },
+  { "text": "Social",
+    "items": [
+      { "text": "Facebook", "href": "https://www.facebook.com/kidoju" },
+      { "text": "Github", "href": "https://github.com/kidoju" },
+      { "text": "Google+", "href": "https://plus.google.com/106416000781829424203" },
+      { "text": "LinkedIn", "href": "https://www.linkedin.com/company/kidoju" },
+      { "text": "Twitter", "href": "https://twitter.com/kidoju" },
+      { "text": "UserVoice", "href": "https://kidoju.uservoice.com/forums/152569-general" },
+      { "text": "RSS feed", "href": "/en/rss.xml" }
+    ]
+  },
   { "text": "More",
     "items": [
       { "text": "FAQs", "href": "/support/en/faqs" },
       { "text": "Privacy Policy", "href": "/support/en/privacy" },
-      { "text": "Terms of Use", "href": "/support/en/terms" }
+      { "text": "Terms of Use", "href": "/support/en/terms" },
+      { "text": "Contact Us", "href": "/support/en/contact" }
     ]
   }
 ]
