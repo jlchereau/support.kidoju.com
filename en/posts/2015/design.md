@@ -5,9 +5,14 @@ icon: index2
 keywords: architecture, web, mobile, Phonegap, MEAN, MongoDB, node, nodeJS, express, expressJS, angular, angularJS, jQuery, Telerik, Kendo, Kendo UI, docker, Amazon, REST, API
 language: en
 title: Functional requirements
-creation_date: 2014-12-23T16:11:17Z
+creation_date: 2016-04-05T05:26:53Z
+uuid: 27db7650-faef-11e5-af20-a53f004f8aa7
+author: jlchereau
+author_url: https://github.com/jlchereau
+avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
+edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/posts/2015/design.md
+site_url: https://www.kidoju.com/support/en/posts/2016/04/design
 ---
-
 Explain the various layers:
 - server api
 - rapi

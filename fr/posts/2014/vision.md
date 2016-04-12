@@ -5,7 +5,13 @@ icon: astrologer
 keywords: Memba, Kidoju, Quizlet, Khan Academy, education, tablets, teach, learn, knowledge, quiz, test, revision, practice
 language: en
 title: Vision for Kidoju
-creation_date: 2014-05-29T17:12:56Z
+creation_date: 2016-04-05T05:26:53Z
+uuid: 25d5e250-faef-11e5-bcae-db81d8040de2
+author: jlchereau
+author_url: https://github.com/jlchereau
+avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
+edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/fr/posts/2014/vision.md
+site_url: https://www.kidoju.com/support/fr/posts/2016/04/vision
 ---
 ## It always starts with a vision
 

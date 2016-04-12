@@ -1,6 +1,6 @@
 ---
 category: Miscellaneous
-description: 
+description: Memba are the proud makers of Kidoju
 icon: question_and_answer
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: en
@@ -13,7 +13,6 @@ creation_date: 2015-05-29T17:12:56Z
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/pages/faqs.md
 site_url: https://www.kidoju.com/support/en/faqs
 ---
-
 ## What is Kidoju?
 
 
