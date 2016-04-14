@@ -1,7 +1,7 @@
 [
-  { "text": "Support", "href": "/support/en/" },
-  { "text": "Explore", "href": "/en/" },
-  { "text": "Blog", "href": "/support/en/posts" },
+  { "text": "Support", "href": "https://www.kidoju.com/support/en/" },
+  { "text": "Explore", "href": "https://www.kidoju.com/en/" },
+  { "text": "Blog", "href": "https://www.kidoju.com/support/en/posts" },
   { "text": "Social",
     "items": [
       { "text": "Facebook", "href": "https://www.facebook.com/kidoju" },
@@ -10,15 +10,16 @@
       { "text": "LinkedIn", "href": "https://www.linkedin.com/company/kidoju" },
       { "text": "Twitter", "href": "https://twitter.com/kidoju" },
       { "text": "UserVoice", "href": "https://kidoju.uservoice.com/forums/152569-general" },
-      { "text": "RSS feed", "href": "/en/rss.xml" }
+      { "text": "Atom feed", "href": "https://www.kidoju.com/api/v1/en/atom.xml" },
+      { "text": "RSS feed", "href": "https://www.kidoju.com/api/v1/en/rss.xml" }
     ]
   },
   { "text": "More",
     "items": [
-      { "text": "FAQs", "href": "/support/en/faqs" },
-      { "text": "Privacy Policy", "href": "/support/en/privacy" },
-      { "text": "Terms of Use", "href": "/support/en/terms" },
-      { "text": "Contact Us", "href": "/support/en/contact" }
+      { "text": "FAQs", "href": "https://www.kidoju.com/support/en/faqs" },
+      { "text": "Privacy Policy", "href": "https://www.kidoju.com/support/en/privacy" },
+      { "text": "Terms of Use", "href": "https://www.kidoju.com/support/en/terms" },
+      { "text": "Contact Us", "href": "https://www.kidoju.com/support/en/contact" }
     ]
   }
 ]
