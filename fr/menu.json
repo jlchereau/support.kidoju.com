@@ -1,8 +1,8 @@
 [
-  { "text": "Support", "href": "https://www.kidoju.com/support/fr/" },
-  { "text": "Explorer", "href": "https://www.kidoju.com/fr/" },
-  { "text": "Blog", "href": "https://www.kidoju.com/support/fr/posts" },
-  { "text": "Social",
+  { "text": "Support", "icon": "support", "href": "https://www.kidoju.com/support/fr/" },
+  { "text": "Explorer", "icon": "home", "href": "https://www.kidoju.com/fr/" },
+  { "text": "Blog", "icon": "blog", "href": "https://www.kidoju.com/support/fr/posts" },
+  { "text": "Social", "icon": "share",
     "items": [
       { "text": "Facebook", "href": "https://www.facebook.com/kidoju" },
       { "text": "Github", "href": "https://github.com/kidoju" },
@@ -14,7 +14,7 @@
       { "text": "RSS feed", "href": "https://www.kidoju.com/api/v1/fr/rss.xml" }
     ]
   },
-  { "text": "Plus",
+  { "text": "Plus", "icon": "add",
     "items": [
       { "text": "Questions fréquentes", "href": "https://www.kidoju.com/support/fr/faqs" },
       { "text": "Confidentialité des données", "href": "https://www.kidoju.com/support/fr/privacy" },
