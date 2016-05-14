@@ -21,7 +21,7 @@ site_url: https://www.kidoju.com/support/en
                 <h3>Datasheet</h3>
                 <p>...</p>
                 <p>
-                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" class="k-button k-primary" role="button">Open</a>&nbsp;
+                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>&nbsp;
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/Datasheet.en.screen.pdf" class="k-button" role="button">Download</a>     
                 </p>
             </div>
@@ -34,7 +34,7 @@ site_url: https://www.kidoju.com/support/en
                 <h3>User Guide</h3>
                 <p>...</p>
                 <p>
-                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/UserGuide.en.screen.pdf" class="k-button k-primary" role="button">Open</a>
+                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/UserGuide.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/UserGuide.en.screen.pdf" class="k-button" role="button">Download</a>
                 </p>
             </div>
@@ -46,7 +46,7 @@ site_url: https://www.kidoju.com/support/en
             <div class="caption">
                 <h3>User Feedback</h3>
                 <p>...</p>
-                <p><a href="https://kidoju.uservoice.com/forums/152569-general" class="k-button k-primary" role="button">Submit and Vote</a></p>
+                <p><a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-primary" role="button">Submit and Vote</a></p>
             </div>
         </div>
     </div>
@@ -68,7 +68,7 @@ site_url: https://www.kidoju.com/support/en
             <div class="caption">
                 <h3>Video Tutorials</h3>
                 <p>Coming soon...</p>
-                <p><a href="#" class="k-button k-primary" role="button">YouTube</a></p>
+                <p><a href="#" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
             </div>
         </div>
     </div>
@@ -79,8 +79,8 @@ site_url: https://www.kidoju.com/support/en
                 <h3>Social Networks</h3>
                 <p>...</p>
                 <p>
-                    <a href="https://twitter.com/kidoju" class="k-button k-primary" role="button">Twitter</a>&nbsp;
-                    <a href="https://www.facebook.com/kidoju" class="k-button" role="button">Facebook</a>
+                    <a href="https://twitter.com/kidoju" target="_blank" class="k-button k-primary" role="button">Twitter</a>&nbsp;
+                    <a href="https://www.facebook.com/kidoju" target="_blank" class="k-button" role="button">Facebook</a>
                 </p>
             </div>
         </div>
