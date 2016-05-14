@@ -20,7 +20,10 @@ site_url: https://www.kidoju.com/support/en
             <div class="caption">
                 <h3>Datasheet</h3>
                 <p>...</p>
-                <p><a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" class="k-button k-primary" role="button">Open</a></p>
+                <p>
+                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" class="k-button k-primary" role="button">Open</a>&nbsp;
+                    <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/Datasheet.en.screen.pdf" class="k-button" role="button">Download</a>     
+                </p>
             </div>
         </div>
     </div>
@@ -30,7 +33,10 @@ site_url: https://www.kidoju.com/support/en
             <div class="caption">
                 <h3>User Guide</h3>
                 <p>...</p>
-                <p><a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/UserGuide.en.screen.pdf" class="k-button k-primary" role="button">Open</a></p>
+                <p>
+                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/UserGuide.en.screen.pdf" class="k-button k-primary" role="button">Open</a>
+                    <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/UserGuide.en.screen.pdf" class="k-button" role="button">Download</a>
+                </p>
             </div>
         </div>
     </div>
@@ -72,7 +78,10 @@ site_url: https://www.kidoju.com/support/en
             <div class="caption">
                 <h3>Social Networks</h3>
                 <p>...</p>
-                <p><a href="https://twitter.com/kidoju" class="k-button k-primary" role="button">Twitter</a> <a href="https://www.facebook.com/kidoju" class="k-button" role="button">Facebook</a></p>
+                <p>
+                    <a href="https://twitter.com/kidoju" class="k-button k-primary" role="button">Twitter</a>&nbsp;
+                    <a href="https://www.facebook.com/kidoju" class="k-button" role="button">Facebook</a>
+                </p>
             </div>
         </div>
     </div>
