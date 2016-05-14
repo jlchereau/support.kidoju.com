@@ -1,6 +1,6 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
+description: Support Kidoju support, y inclus brochure, eBook, tutoriels vidéo, blog et autres options.
 icon: lifebelt
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: fr
