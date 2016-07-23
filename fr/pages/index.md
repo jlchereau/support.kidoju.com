@@ -66,7 +66,7 @@ site_url: https://www.kidoju.com/support/fr
             <div class="caption">
                 <h3>Tutoriels Vidéo</h3>
                 <p>Bientôt Disponible...</p>
-                <p><a href="https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
+                <p><a href="https://www.youtube.com/channel/UC2vvo3bzox9ikJ2zFWN5B1A" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
             </div>
         </div>
     </div>
