@@ -19,7 +19,7 @@ site_url: https://www.kidoju.com/support/en
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index1.jpg" alt="Datasheet">
             <div class="caption">
                 <h3>Datasheet</h3>
-                <p>...</p>
+                <p>A summary of the features and benefits of the Kidoju platform.</p>
                 <p>
                     <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/Datasheet.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>&nbsp;
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/Datasheet.en.screen.pdf" class="k-button" role="button">Download</a>     
@@ -32,7 +32,7 @@ site_url: https://www.kidoju.com/support/en
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index2.jpg" alt="User Guide">
             <div class="caption">
                 <h3>User Guide</h3>
-                <p>...</p>
+                <p>Step by step instructions to design and play phenomenal quizzes on the Kidoju platform.</p>
                 <p>
                     <a href="https://github.com/kidoju/support.kidoju.com/blob/master/en/docs/UserGuide.en.screen.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/en/docs/UserGuide.en.screen.pdf" class="k-button" role="button">Download</a>
@@ -42,20 +42,10 @@ site_url: https://www.kidoju.com/support/en
     </div>
     <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
-            <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index3.jpg" alt="User Feedback">
-            <div class="caption">
-                <h3>User Feedback</h3>
-                <p>...</p>
-                <p><a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-primary" role="button">Submit and Vote</a></p>
-            </div>
-        </div>
-    </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index4.jpg" alt="Blog">
             <div class="caption">
                 <h3>Blog</h3>
-                <p>...</p>
+                <p>To learn every day and discover tips and tricks.</p>
                 <p><a href="https://www.kidoju.com/support/en/posts" class="k-button k-primary" role="button">Navigate</a></p>
             </div>
         </div>
@@ -65,8 +55,18 @@ site_url: https://www.kidoju.com/support/en
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index5.jpg" alt="Video Tutorials">
             <div class="caption">
                 <h3>Video Tutorials</h3>
-                <p>Coming soon...</p>
+                <p>For those who prefer to watch and listen than read.</p>
                 <p><a href="https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-4 k-widget">
+        <div class="thumbnail">
+            <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index3.jpg" alt="User Feedback">
+            <div class="caption">
+                <h3>User Feedback</h3>
+                <p>To send us your wishes and influence the future of the Kidoju platform.</p>
+                <p><a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-primary" role="button">Suggest and Vote</a></p>
             </div>
         </div>
     </div>
@@ -75,7 +75,7 @@ site_url: https://www.kidoju.com/support/en
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index6.jpg" alt="Social Networks">
             <div class="caption">
                 <h3>Social Networks</h3>
-                <p>...</p>
+                <p>To contact us about any subject.</p>
                 <p>
                     <a href="https://twitter.com/kidoju" target="_blank" class="k-button k-primary" role="button">Twitter</a>&nbsp;
                     <a href="https://www.facebook.com/kidoju" target="_blank" class="k-button" role="button">Facebook</a>
