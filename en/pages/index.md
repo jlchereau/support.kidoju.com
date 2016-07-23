@@ -15,7 +15,7 @@ site_url: https://www.kidoju.com/support/en
 ---
 <div class="row">
     <div class="col-sm-6 col-md-4">
-        <div class="thumbnail">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index1.jpg" alt="Datasheet">
             <div class="caption">
                 <h3>Datasheet</h3>
@@ -27,7 +27,7 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index2.jpg" alt="User Guide">
             <div class="caption">
@@ -40,7 +40,7 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index3.jpg" alt="User Feedback">
             <div class="caption">
@@ -50,9 +50,7 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-</div>
-<div class="row">
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index4.jpg" alt="Blog">
             <div class="caption">
@@ -62,17 +60,17 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index5.jpg" alt="Video Tutorials">
             <div class="caption">
                 <h3>Video Tutorials</h3>
                 <p>Coming soon...</p>
-                <p><a href="#" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
+                <p><a href="https://www.youtube.com/channel/UCzvNSb6xFpN8kIaw85M1-Pg" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4">
+    <div class="col-sm-6 col-md-4 k-widget">
         <div class="thumbnail">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index6.jpg" alt="Social Networks">
             <div class="caption">
