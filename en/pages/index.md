@@ -27,8 +27,8 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index2.jpg" alt="User Guide">
             <div class="caption">
                 <h3>User Guide</h3>
@@ -40,8 +40,8 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index4.jpg" alt="Blog">
             <div class="caption">
                 <h3>Blog</h3>
@@ -50,8 +50,8 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index5.jpg" alt="Video Tutorials">
             <div class="caption">
                 <h3>Video Tutorials</h3>
@@ -60,8 +60,8 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index3.jpg" alt="User Feedback">
             <div class="caption">
                 <h3>User Feedback</h3>
@@ -70,8 +70,8 @@ site_url: https://www.kidoju.com/support/en
             </div>
         </div>
     </div>
-    <div class="col-sm-6 col-md-4 k-widget">
-        <div class="thumbnail">
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail k-widget">
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/index6.jpg" alt="Social Networks">
             <div class="caption">
                 <h3>Social Networks</h3>
