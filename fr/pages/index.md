@@ -19,7 +19,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index1.jpg" alt="Brochure">
             <div class="caption">
                 <h3>Brochure</h3>
-                <p style="min-height:3em;">Un résumé des fonctionnalités et des bénéfices de la plateforme Kidoju.</p>
+                <p style="min-height:3.5em;">Un résumé des fonctionnalités et des bénéfices de la plateforme Kidoju.</p>
                 <p>
                     <a href="https://github.com/kidoju/support.kidoju.com/blob/master/fr/docs/Datasheet.fr.screen.pdf" target="_blank" class="k-button k-primary" role="button">Ouvrir</a>&nbsp;
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/fr/docs/Datasheet.fr.screen.pdf" class="k-button" role="button">Télécharger</a>
@@ -32,7 +32,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index2.jpg" alt="Guide Utilisateur">
             <div class="caption">
                 <h3>Guide Utilisateur</h3>
-                <p style="min-height:3em;">Les instructions pas à pas pour concevoir et jouer des quiz phénoménaux sur la plateforme Kidoju.</p>
+                <p style="min-height:3.5em;">Les instructions pas à pas pour concevoir et jouer des quiz phénoménaux sur la plateforme Kidoju.</p>
                 <p>
                     <a href="https://github.com/kidoju/support.kidoju.com/blob/master/fr/docs/UserGuide.fr.screen.pdf" target="_blank" class="k-button k-primary" role="button">Ouvrir</a>&nbsp;
                     <a href="https://github.com/kidoju/support.kidoju.com/raw/master/fr/docs/UserGuide.fr.screen.pdf" class="k-button" role="button">Télécharger</a>
@@ -45,7 +45,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index4.jpg" alt="Blog">
             <div class="caption">
                 <h3>Blog</h3>
-                <p style="min-height:3em;">Pour s'informer au quotidien et découvrir des trucs et astuces.</p>
+                <p style="min-height:3.5em;">Pour s'informer au quotidien et découvrir des trucs et astuces.</p>
                 <p><a href="https://www.kidoju.com/support/fr/posts" class="k-button k-primary" role="button">Naviguer</a></p>
             </div>
         </div>
@@ -55,7 +55,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index5.jpg" alt="Tutoriels Vidéos">
             <div class="caption">
                 <h3>Tutoriels Vidéo</h3>
-                <p style="min-height:3em;">Pour ceux qui préfèrent voir et écouter que lire.</p>
+                <p style="min-height:3.5em;">Pour ceux qui préfèrent voir et écouter que lire.</p>
                 <p><a href="https://www.youtube.com/channel/UC2vvo3bzox9ikJ2zFWN5B1A" target="_blank" class="k-button k-primary" role="button">YouTube</a></p>
             </div>
         </div>
@@ -65,7 +65,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index3.jpg" alt="Suggestions">
             <div class="caption">
                 <h3>Suggestions</h3>
-                <p style="min-height:3em;">Pour nous faire parvenir vos souhaits et influencer l'avenir de la plateforme Kidoju.</p>
+                <p style="min-height:3.5em;">Pour nous faire parvenir vos souhaits et influencer l'avenir de la plateforme Kidoju.</p>
                 <p>
                     <a href="https://kidoju.uservoice.com/forums/152569-general" target="_blank" class="k-button k-primary" role="button">Suggérer et Voter</a>
                     <!-- TODO: rapport de bogue -->
@@ -78,7 +78,7 @@ site_url: https://www.kidoju.com/support/fr
             <img src="https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/pages/index6.jpg" alt="Réseaux Sociaux">
             <div class="caption">
                 <h3>Réseaux Sociaux</h3>
-                <p style="min-height:3em;">Pour communiquer avec nous sur n'importe quel sujet.</p>
+                <p style="min-height:3.5em;">Pour communiquer avec nous sur n'importe quel sujet.</p>
                 <p>
                     <a href="https://twitter.com/kidoju" target="_blank" class="k-button" role="button">Twitter</a>&nbsp;
                     <a href="https://www.facebook.com/kidoju" target="_blank" class="k-button" role="button">Facebook</a>
