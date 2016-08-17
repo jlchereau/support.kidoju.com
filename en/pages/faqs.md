@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: Why Kidoju? What is Kidoju? How does Kidoju compare with MOOCs and quiz web sites?  
 icon: question_and_answer
-keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, mooc, course, powerpoint, coursera, edx, khan, academy, lynda, quizlet, socrative
+keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, mooc, course, powerpoint, coursera, edx, khan, academy, lynda, quizlet, socrative
 language: en
 title: Frequently Asked Questions
 uuid: 21fbc830-0ab7-11e5-8e6c-c3552af7ecb7

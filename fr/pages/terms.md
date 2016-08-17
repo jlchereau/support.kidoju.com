@@ -1,10 +1,10 @@
 ---
 category: Divers
 description: Memba are the proud makers of Kidoju
-icon: typewriter
+icon: contract
 keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
 language: fr
-title: Memba
+title: Conditions d'Utilisation
 uuid: 24846ee0-0ab7-11e5-8e6c-c3552af7ecb7
 author: jlchereau
 author_url: https://github.com/jlchereau

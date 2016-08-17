@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: Kidoju support, including datasheet, eBook, video tutorials, blog and other options.
 icon: lifebelt
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, teach, learn, study, knowledge, test, blog, article, documentation, ebook, video, webinar, tutorial, slide
 language: en
 title: Support Options
 uuid: 22d7d050-0ab7-11e5-8e6c-c3552af7ecb7

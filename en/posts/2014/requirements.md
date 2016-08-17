@@ -1,7 +1,7 @@
 ---
 category: Miscellaneous
-description: Kidojus are PowerPoint&reg; presentations with the ability to record answers and calculate a score.
-icon: index2
+description: Kidoju quizzes are PowerPoint&reg; presentations with the ability to record answers and calculate a score.
+icon: singer
 keywords: TODO
 language: en
 title: Functional requirements

@@ -1,10 +1,10 @@
 ---
 category: Miscellaneous
 description: Memba are the proud makers of Kidoju
-icon: typewriter
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+icon: contract
+keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, terms, use
 language: en
-title: Memba
+title: Terms of Use
 uuid: 24a42be0-0ab7-11e5-8e6c-c3552af7ecb7
 author: jlchereau
 author_url: https://github.com/jlchereau

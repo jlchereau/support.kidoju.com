@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: Memba are the proud makers of Kidoju
 icon: typewriter
-keywords: Memba, Kidoju, teach, learn, knowledge, test, blog, article, documentation, ebook, video, webinar, slide
+keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, roadmap, 2016, 2017, 2018
 language: en
 title: Memba
 uuid: 5a3f8750-00f1-11e6-a77c-c12c42838bf6
@@ -13,3 +13,10 @@ creation_date: 2016-04-05T05:26:53Z
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/pages/roadmap.md
 site_url: https://www.kidoju.com/support/en/roadmap
 ---
+## 2016
+
+
+
+## 2017
+
+## 2018

@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: A contact form to reach us.
 icon: user_telephone
-keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, blog, article, documentation
+keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, contact
 language: en
 title: Contact Us
 uuid: 0c62866f-a8e7-491c-9236-cf61b0a986ee

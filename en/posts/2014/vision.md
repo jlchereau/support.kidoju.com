@@ -2,7 +2,7 @@
 category: Miscellaneous
 description: Vision for Kidoju
 icon: astrologer
-keywords: Memba, Kidoju, Quizlet, Khan Academy, education, tablets, teach, learn, knowledge, quiz, test, revision, practice
+keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, correction, tablets, SAT, Quizlet, Khan Academy
 language: en
 title: Vision for Kidoju
 uuid: 25fe3da0-0ab7-11e5-8e6c-c3552af7ecb7
@@ -45,11 +45,11 @@ The education software market is actually divided into three main categories:
 
 ### The Vision
 
-- What if there was a more engaging and fun way to practise than black & white forms to fill in?
+- What if there was a more engaging and fun way to practise than paper forms to fill in?
 - What if students could practice and assess their knowledge anytime anywhere without carrying heavy books?
 - What if students could get instant corrections without involving teachers and parents?
 - What if parents could provide as many exercises as their children require to master any topics?
-- What if teachers could spend less time correcting assessments and more time actually teaching face-to-face? 
+- What if teachers could spend less time correcting student work and more time actually teaching face-to-face? 
 - What if any effort to build new exercises could be shared and re-used by others again and again?
 - What if a single application could cover any topics for any age groups?
 - What if schools could spare the burden and cost of photocopies?
