@@ -4,7 +4,7 @@ description: Why Kidoju? What is Kidoju? How does Kidoju compare with MOOCs and 
 icon: question_and_answer
 keywords: Memba, Kidoju, software, education, teach, learn, teacher, student, knowledge, test, quiz, mooc, course, powerpoint, coursera, edx, khan, academy, lynda, quizlet, socrative
 language: en
-title: Frequently asked questions
+title: Frequently Asked Questions
 uuid: 21fbc830-0ab7-11e5-8e6c-c3552af7ecb7
 author: jlchereau
 author_url: https://github.com/jlchereau
@@ -13,6 +13,9 @@ creation_date: 2015-05-29T17:12:56Z
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/pages/faqs.md
 site_url: https://www.kidoju.com/support/en/faqs
 ---
+
+![Frequently Asked Questions](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/pages/faqs.jpg)
+
 ## Why Kidoju?
 
 In average, teachers spend 19 hours teaching and 5 hours marking/correcting student work among other weekly tasks
