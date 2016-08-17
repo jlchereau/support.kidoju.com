@@ -22,7 +22,7 @@ In average, teachers spend 19 hours teaching and 5 hours marking/correcting stud
 (Source: [OECD](http://www.oecd.org/edu/EAG2014-Indicator%20D4%20(eng).pdf)). They want to spend more time teaching and less time correcting.
   
 By the time students get corrections, the momentum to fill knowledge gaps is lost, which limits the benefits of homework.
-Instant corrections motivate students to fill such gaps before reaching the next course chapter.
+On the contrary, instant corrections motivate students to fill such gaps before reaching the next course chapter.
 
 ## What is Kidoju?
 
@@ -38,7 +38,7 @@ Therefore sharing your contributions publicly on the Kidoju platform is free and
 
 ## How does Kidoju compare with Coursera, EdX, Khan Academy, Lynda and other Massive Online Open Course (MOOC) platforms?
 
-Kidoju is not a substitute for the classroom experience. We believe in the benefits of face-to-face interactions in education.
+Kidoju is neither a MOOC nor a substitute for the classroom experience. We believe in the benefits of face-to-face interactions in education.
 Kidoju is a substitute for printed and photocopied exercises, leveraging mobile devices.
 
 ## How does Kidoju compare with Quizlet, Socrative, and other Quiz web sites?
