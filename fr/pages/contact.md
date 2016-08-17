@@ -1,5 +1,5 @@
 ---
-category: Miscellaneous
+category: Divers
 description: Un formulaire pour nous contacter.
 icon: user_telephone
 keywords: Memba, Kidoju, logiciel, éducation, enseigner, apprendre, professeur, étudiant, connaissance, exercice, test, quiz, blog, article, documentation

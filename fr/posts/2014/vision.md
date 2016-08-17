@@ -1,5 +1,5 @@
 ---
-category: Miscellaneous
+category: Divers
 description: Vision for Kidoju
 icon: astrologer
 keywords: Memba, Kidoju, Quizlet, Khan Academy, education, tablets, teach, learn, knowledge, quiz, test, revision, practice
