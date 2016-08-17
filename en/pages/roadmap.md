@@ -1,10 +1,10 @@
 ---
 category: Miscellaneous
-description: Memba are the proud makers of Kidoju
+description: The Kidoju roadmap for 2016, 2017 and 2018.
 icon: map_roads
 keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, roadmap, 2016, 2017, 2018
 language: en
-title: Memba
+title: The Kidoju Roadmap
 uuid: 5a3f8750-00f1-11e6-a77c-c12c42838bf6
 author: jlchereau
 author_url: https://github.com/jlchereau
@@ -20,7 +20,7 @@ You have an opportunity to influence this roadmap by submitting and voting sugge
 
 ## 2016
 
-This year is about shipping a core set of features, packaged as a web platform and a mobile application, including:
+This year has been focused on shipping an initial core set of features, packaged as a web platform and a mobile application, including:
 
 - a content management system with categories, contents, versions, users and activities,
 - a web designer/editor with a rich toolset,
@@ -40,4 +40,4 @@ We are also considering exploring integrations with Google Classroom and Apple C
 ## 2018
 
 The following year, we plan to introduce paid subscriptions for premium services including private content, class management, work assignments and score analytics.
-Possibly, we will also plan to have paid premium content.
+Possibly, we are also considering paid premium content.
