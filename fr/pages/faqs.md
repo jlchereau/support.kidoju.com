@@ -18,11 +18,11 @@ site_url: https://www.kidoju.com/support/fr/faqs
 
 ## Pourquoi Kidoju?
 
-En moyenne, les enseignats spend 19 hours teaching and 5 hours marking/correcting student work among other weekly tasks
-(Source: [OECD](http://www.oecd.org/edu/EAG2014-Indicator%20D4%20(eng).pdf)). They want to spend more time teaching and less time correcting.
+En moyenne, les enseignants passent 19 heures à enseigner et 5 heures à corriger les travaux des étudiants entre autres taches hebdomadaires
+(Source: [OECD](http://www.oecd.org/edu/EAG2014-Indicator%20D4%20(eng).pdf)). Ils souhaitent passer moins de temps à corriger et plus de temps à enseigner.
   
-By the time students get corrections, the momentum to fill knowledge gaps is lost, which limits the benefits of homework.
-Instant corrections motivate students to fill such gaps before reaching the next course chapter.
+En attendant les corrections, les étudiants perdent leur élan pour combler leurs lacunes, ce qui limite l'intérêt des devoirs.
+Au contraire, les corrections instantanées motivent les élèves pour combler ces lacunes avant d'atteindre le prochain chapitre du cours.
 
 ## Qu'est-ce que Kidoju?
 
