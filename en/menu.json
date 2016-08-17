@@ -17,6 +17,7 @@
   { "text": "More", "icon": "add",
     "items": [
       { "text": "FAQs", "href": "https://www.kidoju.com/support/en/faqs" },
+      { "text": "Roadmap", "href": "https://www.kidoju.com/support/en/roadmap" },
       { "text": "Privacy Policy", "href": "https://www.kidoju.com/support/en/privacy" },
       { "text": "Terms of Use", "href": "https://www.kidoju.com/support/en/terms" },
       { "text": "Contact Us", "href": "https://www.kidoju.com/support/en/contact" }
