@@ -21,8 +21,8 @@ site_url: https://www.kidoju.com/support/en/faqs
 In average, teachers spend 19 hours teaching and 5 hours marking/correcting student work among other weekly tasks
 (Source: [OECD](http://www.oecd.org/edu/EAG2014-Indicator%20D4%20(eng).pdf)). They want to spend less time correcting and more time teaching.
   
-By the time students get corrections, the momentum to fill knowledge gaps is lost, which limits the benefits of homework.
-On the contrary, instant corrections motivate students to fill such gaps before reaching the next course chapter.
+By the time students get handwritten corrections, the momentum to fill knowledge gaps is lost, which limits the benefits of paper-based homework.
+On the contrary, instant automated corrections motivate students to fill such gaps before reaching the next course chapter.
 
 ### What is Kidoju?
 
