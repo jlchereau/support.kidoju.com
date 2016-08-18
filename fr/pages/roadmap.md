@@ -40,4 +40,4 @@ Nous envisageons également d'explorer de possibles intégrations avec Google Cl
 ## 2018
 
 L'année suivante, nous avons l'intention d'introduire des abonnements payants pour les services avancés, y compris les contenus privés, la gestion des classes, l’affectation du travail, et la gestion des scores.
-Eventuellement, nous envisageons aussi des contenus payants.
+Eventuellement, nous envisageons aussi des contenus payants. Nouse considrerons aussi d'autres intégrations (LMS, SCORM, TinCan/xAPI).

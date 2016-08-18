@@ -40,4 +40,4 @@ We are also considering exploring integrations with Google Classroom and Apple C
 ## 2018
 
 The following year, we plan to introduce paid subscriptions for premium services including private content, class management, work assignments and score analytics.
-Possibly, we are also considering paid premium content.
+Possibly, we are also considering paid premium content. We might also consider more integrations (LMS, SCORM, TinCan/xAPI).
