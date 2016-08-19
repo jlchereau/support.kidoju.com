@@ -5,7 +5,7 @@ icon: astrologer
 keywords: Memba, Kidoju, software, education, teach, learn, study, knowledge, test, quiz, correction, tablets, revisions, practice, SAT, Quizlet, Khan Academy
 language: en
 title: Vision for Kidoju
-creation_date: 2016-04-05T05:26:53Z
+creation_date: 2014-05-29T17:12:56Z
 uuid: 25d5e250-faef-11e5-bcae-db81d8040de2
 author: jlchereau
 author_url: https://github.com/jlchereau
