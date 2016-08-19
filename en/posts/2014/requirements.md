@@ -30,7 +30,7 @@ where:
 - activities include views, comments, ratings and scores.
 
 [YouTube](https://www.youtube.com/) and [SlideShare](http://www.slideshare.net/) have similar Content Management Systems where content respectively consists in videos and slide presentations.
-Replace those videos and slide presentations by quizzes, and you should have a pretty good idea waht such a Content Management System should look like.
+Replace those videos and slide presentations by quizzes, and you should have a pretty good idea what such a Content Management System should look like.
 
 ### Editor/Player
 
@@ -42,7 +42,7 @@ When a user executes a quiz, each question is displayed with an image and a set 
 **Our objective is to digitize most exercises that can be found in student books and provide automated corrections.**
 If the aforementioned quiz systems have the merit of simplicity, they fall short of reaching this objective.
 
-Kidoju requires an extensible toolbox of:
+To this end, Kidoju requires an extensible toolbox of:
 
 - standard controls including labels, images, textboxes and buttons,
 - specialized widgets to handle complex interactions including dragging and dropping, connecting, drawing math functions and chemical formulas. 
