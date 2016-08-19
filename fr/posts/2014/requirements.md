@@ -33,7 +33,7 @@ dans lequel:
 [YouTube](https://www.youtube.com/) et [SlideShare](http://www.slideshare.net/) ont des systèmes de gestion de contenus similaires où le contenu est constitué respectivement de vidéos et de présentations de diapositives.
 Remplacez ces vidéos et ces présentations de diapositives par des quiz, et vous devriez avoir une assez bonne idée de ce à quoi ce système de gestion de contenus devrait ressembler.
                                                                                 
-### Editor/Player
+### Editeur/Lecteur
 
 
 La plupart des systèmes de quiz existants sont conçus comme des listes de questions, des images optionnelles et des ensembles de réponses alternatives.
@@ -42,8 +42,8 @@ Lorsqu'un utilisateur exécute un quiz, chaque question est affichée avec une i
 ![Questions à Choix Multiples](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/fr/posts/2014/requirements.jpg)
 
 **Notre objectif est de numériser la plupart des exercices qui peuvent être trouvés dans les livres d'étudiants et de fournir des corrections automatiques.**
-Si les systèmes de quiz mentionnés ci-dessus ont le mérite de la simplicité, ils sont incapables d'atteindre cet objectif.
 
+Si les systèmes de quiz mentionnés ci-dessus ont le mérite de la simplicité, ils sont incapables d'atteindre cet objectif.
 À cette fin, Kidoju nécessite une boîte à outils extensible, notamment:
 
 - des contrôles standards, y compris les étiquettes, les images, les textboxes et les boutons,

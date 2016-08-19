@@ -40,8 +40,8 @@ When a user executes a quiz, each question is displayed with an image and a set 
 ![Multiple Choice Questions](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/posts/2014/requirements.jpg)
 
 **Our objective is to digitize most exercises that can be found in student books and provide automated corrections.**
-If the aforementioned quiz systems have the merit of simplicity, they fall short of reaching this objective.
 
+If the aforementioned quiz systems have the merit of simplicity, they fall short of reaching this objective.
 To this end, Kidoju requires an extensible toolbox of:
 
 - standard controls including labels, images, textboxes and buttons,
