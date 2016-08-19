@@ -26,7 +26,7 @@ Kidoju comprises:
 
 where:
  
-- content essentially consists of quizzes.
+- content essentially consists of knowledge tests or quizzes;
 - activities include views, comments, ratings and scores.
 
 [YouTube](https://www.youtube.com/) and [SlideShare](http://www.slideshare.net/) have similar Content Management Systems where content respectively consists in videos and slide presentations.
