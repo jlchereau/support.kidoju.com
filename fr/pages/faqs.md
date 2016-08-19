@@ -34,7 +34,8 @@ La conception d'un test de connaissances Kidoju est très similaire à la concep
 ### Qu'est-ce qui est gratuit?
 
 Nous croyons fermement que la connaissance doit être gratuite, mais nous avons aussi besoin de financer nos coûts.
-Par conséquent, partager vos contributions publiquement sur la plate-forme Kidoju est gratuit et vous ne payez que pour les données que vous voulez conserver privées.
+Par conséquent, partager vos contributions publiquement sur la plate-forme Kidoju est gratuit.
+Notre projet est de ne faire payer que pour les informations que vous voudrez conserver privées.
 
 ### Comment comparer Kidoju à Coursera, EdX, Khan Academy, Lynda et aux autres plate-formes de type Massive Open Online Course (MOOC)?
 

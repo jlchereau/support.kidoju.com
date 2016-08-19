@@ -34,7 +34,8 @@ except the Kidoju toolset has the ability to record answers and calculate scores
 ### What is free?
 
 We strongly believe that knowledge should be free but we also need to fund our costs.
-Therefore sharing your contributions publicly on the Kidoju platform is free and you only pay for data you want to keep private.
+Therefore sharing your contributions publicly on the Kidoju platform is free.
+Our plan is to bill only for the information you want to keep private.
 
 ### How does Kidoju compare with Coursera, EdX, Khan Academy, Lynda and other Massive Online Open Course (MOOC) platforms?
 
