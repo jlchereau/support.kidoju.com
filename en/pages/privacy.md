@@ -13,7 +13,7 @@ creation_date: 2015-05-29T17:12:56Z
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/pages/privacy.md
 site_url: https://www.kidoju.com/support/en/privacy
 ---
-## Personal data
+### Personal data
 
 When you register for and use Kidoju we collect information such as your name and email address to identify you.
 This information can be found on your user profile.
@@ -25,7 +25,7 @@ This site does not use cookies.
 
 If you choose to provide Kidoju with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-## Third Party tools
+### Third Party tools
 
 This site implements [Google Analytics](http://www.google.com/analytics/) for the sole purpose of measuring your interest in what we do.
 Google Analytics may use cookies.
