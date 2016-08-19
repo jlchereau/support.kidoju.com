@@ -40,7 +40,7 @@ This privacy policy only applies to this website, and doesn’t cover other serv
 
 ### Disclosure
 
-This site may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Use.
+This site may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate our [Terms of Use](https://www.kidoju.com/support/en/terms).
 
 ### Changes
 

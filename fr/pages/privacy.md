@@ -40,7 +40,7 @@ Cette politique de confidentialité des données s'applique à ce seul site, et 
 
 ### Divulgation
 
-Ce site peut divulguer des informations personnelles dans des circonstances particulières, notamment pour se conformer à des décisions de justice ou lorsque vos actions violent les conditions d'utilisation.
+Ce site peut divulguer des informations personnelles dans des circonstances particulières, notamment pour se conformer à des décisions de justice ou lorsque vos actions violent nos [Conditions d'Utilisation](https://www.kidoju.com/support/fr/terms).
 
 ### Modifications
 
