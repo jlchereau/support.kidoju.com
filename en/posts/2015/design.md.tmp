@@ -4,7 +4,7 @@ description: Application design.
 icon: index2
 keywords: architecture, web, mobile, Phonegap, MEAN, MongoDB, node, nodeJS, express, expressJS, angular, angularJS, jQuery, Telerik, Kendo, Kendo UI, docker, Amazon, REST, API
 language: en
-title: Functional requirements
+title: Application Design
 creation_date: 2016-04-05T05:26:53Z
 uuid: 27db7650-faef-11e5-af20-a53f004f8aa7
 author: jlchereau
