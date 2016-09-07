@@ -34,8 +34,8 @@ site_url: https://www.kidoju.com/support/fr
                 <h3>Guide Utilisateur</h3>
                 <p style="min-height:3.5em;">Les instructions pas à pas pour concevoir et jouer des quiz phénoménaux sur la plateforme Kidoju.</p>
                 <p>
-                    <a href="https://github.com/kidoju/support.kidoju.com/blob/master/fr/docs/UserGuide.fr.screen.pdf" target="_blank" class="k-button k-primary" role="button">Ouvrir</a>&nbsp;
-                    <a href="https://github.com/kidoju/support.kidoju.com/raw/master/fr/docs/UserGuide.fr.screen.pdf" class="k-button" role="button">Télécharger</a>
+                    <a href="https://cdn.kidoju.com/support/docs/user-guide.en.pdf" target="_blank" class="k-button k-primary" role="button">Ouvrir</a>&nbsp;
+                    <a href="https://github.com/kidoju/Kidoju-Help/raw/master/docs/user-guide.en.pdf" class="k-button" role="button">Télécharger</a>
                 </p>
             </div>
         </div>
