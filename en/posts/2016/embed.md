@@ -23,7 +23,7 @@ site_url: https://www.kidoju.com/support/en/posts/2016/04/embed
 
 To embed a quiz in your web site, first display the quiz details and click the **Embed** tab of the  **Share** panel:
 
-![Summary Page](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/posts/2016/embed.jpg)
+![Summary Page](https://raw.githubusercontent.com/kidoju/support.kidoju.com/master/en/posts/2016/embed.png)
 
 Then simply copy and paste the code within your html page as in: 
 
