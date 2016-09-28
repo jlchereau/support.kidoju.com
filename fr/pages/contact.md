@@ -20,33 +20,40 @@ creation_date: 2016-04-12T08:51:27Z
                 <input type="hidden" name="formId" value="LfOfVxwkqgkYOx7pcM6LtA=="/>
                 <div class="form-group">
                     <label for="insightly_firstName">Prénom: </label>
-                    <input id="insightly_firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
+                    <input id="insightly_firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%"
+                     pattern="^[^<>\/]{3,50}$" validationMessage="Veuillez saisir votre prénom de 3 à 50 caractères sans symbole interdit.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_lastName">Nom: </label>
-                    <input id="insightly_lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
+                    <input id="insightly_lastName" name="LastName" type="text" class="k-textbox" style="width: 100%"
+                    pattern="^[^<>\/]{3,50}$" validationMessage="Veuillez saisir votre nom de 3 à 50 caractères sans symbole interdit.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_organization">Organisation: </label>
-                    <input id="insightly_organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
+                    <input id="insightly_organization" name="Organization" type="text" class="k-textbox" style="width: 100%"
+                    pattern="^([^<>\/]{3,50})?$" validationMessage="Veuillez saisir votre organisation de 3 à 50 caractères sans symbole interdit.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_role">Fonction: </label>
-                    <input id="insightly_role" name="Role" type="text" class="k-textbox" style="width: 100%">
+                    <input id="insightly_role" name="Role" type="text" class="k-textbox" style="width: 100%"
+                    pattern="^([^<>\/]{3,50})?$" validationMessage="Veuillez saisir votre fonction de 3 à 50 caractères sans symbole interdit.">
                 </div>
                 <div class="form-group">
                     <input type="hidden" name="emails[0].Label" value="Work">
                     <label for="email[0]_Value">E-mail: </label>
-                    <input id="emails[0]_Value" name="emails[0].Value" type="email" class="k-textbox" style="width: 100%" required>
+                    <input id="emails[0]_Value" name="emails[0].Value" type="email" class="k-textbox" style="width: 100%"
+                    required validationMessage="Veuillez saisir votre email.">
                 </div>
                 <div class="form-group">
                     <input type="hidden" name="phones[0].Label" value="Work">
                     <label for="phones[0]_Value">Téléphone: </label>
-                    <input id="phones[0]_Value" name="phones[0].Value" type="text" class="k-textbox" style="width: 100%">
+                    <input id="phones[0]_Value" name="phones[0].Value" type="text" class="k-textbox" style="width: 100%"                    
+                    pattern="^([0-9 \-\+]{6,20})?$" validationMessage="Veuillez saisir votre numéro de téléphone de 6 à 20 caractères.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_background">Message: </label>
-                    <textarea id="insightly_background" name="background" class="k-textbox" style="width: 100%; height: 150px; resize: vertical"></textarea>
+                    <textarea id="insightly_background" name="background" class="k-textbox" style="width: 100%; height: 150px; resize: vertical"
+                    pattern="^[^<>\/]{10,500}$" validationMessage="Veuillez saisir votre message de 10 à 500 caractères sans symbole interdit."></textarea>
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Soumettre" class="k-button k-primary pull-right">

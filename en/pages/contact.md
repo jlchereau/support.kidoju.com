@@ -20,33 +20,40 @@ creation_date: 2016-04-12T08:56:29Z
                 <input type="hidden" name="formId" value="LfOfVxwkqgkYOx7pcM6LtA=="/>
                 <div class="form-group">
                     <label for="insightly_firstName">First Name: </label>
-                    <input id="insightly_firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%" required>
+                    <input id="insightly_firstName" name="FirstName" type="text" class="k-textbox" style="width: 100%"
+                     pattern="^[^<>\/]{3,50}$" validationMessage="Please enter your first name of 3 to 50 characters without forbidden symbol.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_lastName">Last Name: </label>
-                    <input id="insightly_lastName" name="LastName" type="text" class="k-textbox" style="width: 100%" required>
+                    <input id="insightly_lastName" name="LastName" type="text" class="k-textbox" style="width: 100%"
+                     pattern="^[^<>\/]{3,50}$" validationMessage="Please enter your last name of 3 to 50 characters without forbidden symbol.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_organization">Organisation: </label>
-                    <input id="insightly_organization" name="Organization" type="text" class="k-textbox" style="width: 100%">
+                    <input id="insightly_organization" name="Organization" type="text" class="k-textbox" style="width: 100%"
+                     pattern="^([^<>\/]{3,50})?$" validationMessage="Please enter your organisation of 3 to 50 characters without forbidden symbol.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_role">Role: </label>
-                    <input id="insightly_role" name="Role" type="text" class="k-textbox" style="width: 100%">
+                    <input id="insightly_role" name="Role" type="text" class="k-textbox" style="width: 100%"
+                     pattern="^([^<>\/]{3,50})?$" validationMessage="Please enter your role of 3 to 50 characters without forbidden symbol.">
                 </div>
                 <div class="form-group">
                     <input type="hidden" name="emails[0].Label" value="Work">
                     <label for="email[0]_Value">E-mail: </label>
-                    <input id="emails[0]_Value" name="emails[0].Value" type="email" class="k-textbox" style="width: 100%" required>
+                    <input id="emails[0]_Value" name="emails[0].Value" type="email" class="k-textbox" style="width: 100%"
+                    required validationMessage="Please enter your email.">
                 </div>
                 <div class="form-group">
                     <input type="hidden" name="phones[0].Label" value="Work">
                     <label for="phones[0]_Value">Phone: </label>
-                    <input id="phones[0]_Value" name="phones[0].Value" type="text" class="k-textbox" style="width: 100%">
+                    <input id="phones[0]_Value" name="phones[0].Value" type="text" class="k-textbox" style="width: 100%"                    
+                    pattern="^([0-9 \-\+]{6,20})?$" validationMessage="Please enter your phone number of 6 to 20 characters.">
                 </div>
                 <div class="form-group">
                     <label for="insightly_background">Message: </label>
-                    <textarea id="insightly_background" name="background" class="k-textbox" style="width: 100%; height: 150px; resize: vertical"></textarea>
+                    <textarea id="insightly_background" name="background" class="k-textbox" style="width: 100%; height: 150px; resize: vertical"
+                    pattern="^[^<>\/]{10,500}$" validationMessage="Please enter your message of 10 to 500 characters without forbidden symbol."></textarea>
                 </div>
                 <div class="form-group">
                     <input type="submit" value="Submit" class="k-button k-primary pull-right">
