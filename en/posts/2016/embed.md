@@ -17,7 +17,7 @@ site_url: https://www.kidoju.com/support/en/posts/2016/04/embed
 
 ### Example
 
-<iframe src="https://www.kidoju.com/en/x/570cc7f46d1dd91900729417/5751b84d9bd40219006d83b1?embed=true&theme=flat" style="height:500px;width:100%;border:solid 1px #363940;"></iframe>
+<iframe src="https://www.kidoju.com/en/x/570cc7f46d1dd91900729417/5751b84d9bd40219006d83b1?embed=true&theme=materialblack" style="height:500px;width:100%;border:solid 1px #3f51b5;"></iframe>
 
 ### How to, step by step
 
@@ -35,8 +35,8 @@ Then simply copy and paste the code within your html page as in:
 <title>Title</title>
 </head>
 <body>
-<iframe src="https://www.kidoju.com/en/x/570cc7f46d1dd91900729417/5751b84d9bd40219006d83b1?embed=true&theme=flat"
-style="height:500px;width:100%;border:solid 1px #363940"></iframe>
+<iframe src="https://www.kidoju.com/en/x/570cc7f46d1dd91900729417/5751b84d9bd40219006d83b1?embed=true&theme=materialblack"
+style="height:500px;width:100%;border:solid 1px #3f51b5"></iframe>
 </body>
 </html>
 ```
