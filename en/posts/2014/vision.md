@@ -10,8 +10,8 @@ author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 creation_date: 2014-05-29T17:12:56Z
-edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/posts/2015/vision.md
-site_url: https://www.kidoju.com/support/en/posts/2015/05/vision
+edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/posts/2014/vision.md
+site_url: https://www.kidoju.com/support/en/posts/2014/05/vision
 ---
 ## It always starts with a vision
 

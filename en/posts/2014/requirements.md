@@ -11,7 +11,7 @@ author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/en/posts/2014/requirements.md
-site_url: https://www.kidoju.com/support/en/posts/2016/04/requirements
+site_url: https://www.kidoju.com/support/en/posts/2014/08/requirements
 ---
 > After having described a [vision](https://www.kidoju.com/support/en/posts/2015/05/vision) for a system that would allow any teacher
 to design and assign work that any student could complete on a mobile device with instant automated corrections, we define here the key requirements for such a system. 

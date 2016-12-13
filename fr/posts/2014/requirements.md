@@ -11,7 +11,7 @@ author: jlchereau
 author_url: https://github.com/jlchereau
 avatar_url: https://avatars.githubusercontent.com/u/2556751?v=3
 edit_url: https://github.com/kidoju/support.kidoju.com/blob/master/fr/posts/2014/requirements.md
-site_url: https://www.kidoju.com/support/fr/posts/2016/04/requirements
+site_url: https://www.kidoju.com/support/fr/posts/2014/08/requirements
 ---
 > Après avoir décrit une [vision](https://www.kidoju.com/support/fr/posts/2015/05/vision) pour un système qui permettrait à tout enseignant
 de concevoir et d'allouer le travail que tout étudiant pourrait exécuter sur un appareil mobile avec des corrections automatisées instantanées,
