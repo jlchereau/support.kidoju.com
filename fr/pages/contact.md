@@ -73,8 +73,8 @@ creation_date: 2016-04-12T08:51:27Z
 
 
 <script>
-    ;(function (window, $, undefined) {
-
+;(function (window, $, undefined) {
+    $(function () {
         if ($.fn.kendoValidator) {
             var form = $('#insightly_web_to_contact');
             var validator = form.kendoValidator().data('kendoValidator');
@@ -84,6 +84,6 @@ creation_date: 2016-04-12T08:51:27Z
                 }
             });
         }
-
-    }(this, jQuery));
+    });
+}(this, jQuery));
 </script>

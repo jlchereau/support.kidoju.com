@@ -74,16 +74,16 @@ creation_date: 2016-04-12T08:56:29Z
 
 <script>
 ;(function (window, $, undefined) {
-
-    if ($.fn.kendoValidator) {
-        var form = $('#insightly_web_to_contact');
-        var validator = form.kendoValidator().data('kendoValidator');
-        form.submit(function (e) {
-            if (!validator.validate()) {
-                e.preventDefault();
-            }
-        });
-    }
-
+    $(function () {
+        if ($.fn.kendoValidator) {
+            var form = $('#insightly_web_to_contact');
+            var validator = form.kendoValidator().data('kendoValidator');
+            form.submit(function (e) {
+                if (!validator.validate()) {
+                    e.preventDefault();
+                }
+            });
+        }
+    });
 }(this, jQuery));
 </script>
