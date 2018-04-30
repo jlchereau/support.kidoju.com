@@ -34,8 +34,8 @@ site_url: https://www.kidoju.com/support/en
                 <h3>User Guide</h3>
                 <p style="min-height:4em;">Step by step instructions to design and play phenomenal quizzes on the Kidoju platform.</p>
                 <p>
-                    <a href="https://cdn.kidoju.com/support/docs/user-guide.en.pdf" target="_blank" class="k-button k-primary" role="button">Open</a>
-                    <a href="https://github.com/kidoju/Kidoju-Help/raw/master/docs/user-guide.en.pdf" class="k-button" role="button">Download</a>
+                    <a href="https://help.kidoju.com" target="_blank" class="k-button k-primary" role="button">Open</a>
+                    <a href="https://legacy.gitbook.com/download/pdf/book/kidoju/help" class="k-button" role="button">Download</a>
                 </p>
             </div>
         </div>
